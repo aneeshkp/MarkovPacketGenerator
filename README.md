@@ -7,8 +7,8 @@ Project Status: [![Project Status: WIP – Initial development is in progress, b
 Generate packets according to appropriate state transition.
 
 ## To Do List
-- [ ] Markov Chain Struct
-- [ ] Markov Chain State Struct
-- [ ] Markov State Transition Table
+- [X] Markov Chain Struct
+- [X] Markov Chain State Struct
+- [X] Markov State Transition Table
 - [ ] JSON Generation
 
